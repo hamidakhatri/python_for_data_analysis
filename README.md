@@ -16,29 +16,7 @@ This includes all my assignments and projects I completed in Python for Data Ana
 
 7. Mid review on math functions, python basics, file handling, dictionary, and lists.
 
-8. Final individual review: Built a User Program that created a bunch of options for the user and allowed them to pick what option they wanted. This program needed to be rerun/restarted if a user entered "invalid" info.
+8. Final individual review: Built a User Program that created a bunch of options for the user and allowed them to pick what option they wanted. This program needed to be rerun/restarted if a user entered "invalid" info. Tasks included a data game, basic math game, getting to know a friend conversation, file usage, and list/dictionary creation and data manipulation.
 
-    Tasks included:
-        1: Data Game
-            - Allow the user to pick a min and max number
-            - Create a data set (array) within the user's specified range
-            - Give the user THREE options of data manipulation (i.e. mean/median/mode/standard dev)
-        2: Basic Math Game
-            - Reqs: addition, subtraction, square root, division, multiplication, displaying min/max numbers in any given list, manipulating data in other ways from a list
-        3: Get to know a friend
-            - Audience: working, non-technical professionals
-            - Should be a game made for two people to play to get to know a little more about the other
-            - Must find a way to learn 10 things about the partner, and save that information into a text file
-        4: File Usage!
-            - The program must be able to:
-                - Create a new empty txt file in the user's directory
-                - Add a line of info to the above new file
-                - Re-print the contents of the file
-                - Add another line to the txt file
-                and repeat!
-        5: List/Dictionary Creation:
-            - Create a list/dictionary of your choice
-            - Work with the user to display certain items in the list/dictionary
-    
 9. Final midterm where a data game was created.
 		
