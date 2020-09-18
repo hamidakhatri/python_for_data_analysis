@@ -1,6 +1,6 @@
 # Python for Data Analysis
 
-This includes all my assignments and projects I completed in Python for Data Analysis course by Albany Can Code.
+This includes all my assignments and projects I completed in Python for Data Analytics course by Albany Can Code.
 
 1. Partner collaboration between myself and my classmate having a conversation with each other and outputting the responses in the form of a list.
 
